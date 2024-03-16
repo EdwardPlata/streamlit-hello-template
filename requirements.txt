@@ -3,3 +3,9 @@ numpy
 pandas
 pydeck
 streamlit
+
+#Nvidia Rag App required packages:
+langchain-nvidia-ai-endpoints==0.0.1
+faiss-cpu==1.7.4
+langchain==0.0.352
+unstructured[all-docs]==0.11.2
